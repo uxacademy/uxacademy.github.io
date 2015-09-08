@@ -12,7 +12,7 @@ $fa-font-path: "../bower_components/font-awesome/fonts" !default;
 @import "../bower_components/font-awesome/scss/font-awesome";
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Source Sans Pro', sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -50,8 +50,11 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+  "mixin",
   "base",
   "layout",
   "home",
+  "blog",
+  "footer",
   "syntax-highlighting"
 ;

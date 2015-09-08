@@ -1,0 +1,16 @@
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin link-w-bg {
+  color: $text_color;
+  font-size: 24px;
+  @include border-radius(5px);
+  padding: 3px 10px;
+  line-height: 1.25;
+  letter-spacing: -1px;
+  outline: none;
+  text-decoration: none;
+}
