@@ -1,0 +1,20 @@
+.post {
+  margin-top: $nav-height;
+  .banner {
+    height: 400px;
+  }
+
+  .post-header {
+    @extend .container;
+    .content {
+      @include easyread-content;
+    }
+  }
+
+  .post-content {
+    @extend .container;
+    .content {
+      @include easyread-content;
+    }
+  }
+}

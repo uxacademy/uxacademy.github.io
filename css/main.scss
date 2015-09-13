@@ -32,7 +32,7 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
-
+$nav-height:       50px;
 
 
 // Using media queries with like this:
@@ -55,6 +55,7 @@ $on-laptop:        800px;
   "layout",
   "home",
   "blog",
+  "post",
   "footer",
   "syntax-highlighting"
 ;

@@ -1,18 +1,7 @@
 .blog {
-  margin-top: 50px;
-}
-
-.banner {
-  background-image: url('/images/blog_banner.jpg');
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-attachment: fixed;
-  background-color: #ccc;
-  color: #fff;
-  text-align: center;
-  .content {
-    padding: 100px 0px;
+  margin-top: $nav-height;
+  .banner {
+    background-image: url('/images/blog_banner.jpg');
   }
 }
 
@@ -46,10 +35,14 @@
 .articles {
   @extend .container;
   .article-index {
+    @include easyread-content;
     list-style: none;
     padding-left: 0;
     li {
-      margin: $spacing-unit*2 0;
+      margin: 0 0;
+    }
+    h3 {
+      margin-top: $spacing-unit;
     }
     .article-title {
       font-size: 28px;

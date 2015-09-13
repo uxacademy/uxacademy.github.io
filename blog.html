@@ -27,10 +27,15 @@ permalink: /blog/
       {% for post in site.posts %}
       <li class="article-item show article-{{post.date | date: "%Y"}}">
         <a href="{{ post.url }}">
-          <h3 class="article-title">{{ post.title }}</h3>
-          <p class="article-date">{{ post.date | date: "%B %e, %Y" }} • {{ reading_time }} read</p>
-          <p class="article-excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncate: 150 }}</p>
+          <h3 class="article-title">{{ post.title | markdownify }}</h3>
         </a>
+        <p class="article-date">
+          {{ post.date | date: "%B %e, %Y" }} •
+          {{ reading_time }} read
+        </p>
+        <p class="article-excerpt">
+          {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+        </p>
       </li>
       {% endfor %}
     </ul>
