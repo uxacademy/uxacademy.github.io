@@ -34,3 +34,58 @@
     }
   }
 }
+
+.uxis {
+  @extend .container;
+  .text-content {
+    padding-top: 100px;
+    @extend .col-md-4;
+  }
+  .image-content {
+    @extend .col-md-8;
+    padding: $spacing-unit*2 0px;
+    text-align: center;
+    img {
+      width: 160px;
+      margin-right: $spacing-unit;
+    }
+    img:last-child {
+      margin-right: 0px;
+    }
+  }
+}
+
+.course-banner{
+  background-image: url('/images/course_banner_blue.png');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+  background-color: #ccc;
+}
+
+.course {
+  @extend .container;
+  padding: $spacing-unit;
+  color: #fff;
+  h2{
+    text-align: center;
+  }
+  h3{
+    margin-top: 0px;
+  }
+  .basic, .advance {
+    @extend .row;
+    margin-top: $spacing-unit;
+  }
+  .text-content {
+    @extend .col-md-5;
+  }
+  .image-content {
+    @extend .col-md-4;
+    @extend .col-md-offset-1;
+    img {
+      width: 280px;
+    }
+  }
+}
