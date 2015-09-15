@@ -22,12 +22,18 @@
     li {
       float: left;
       > a {
+        color: #fff;
         float: left;
         margin: 0 4px 8px;
-        font-size: 20px;
+        padding: 4px 8px;
         @media (max-width: 450px) { font-size: 16px; }
+        background-color: #abc;
+        border-radius: 5px;
+        &:hover {
+          opacity: .6;
+          text-decoration: none;
+        }
       }
-      &:hover { opacity: .6; }
     }
   }
 }
