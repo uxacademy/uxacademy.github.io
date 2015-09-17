@@ -60,7 +60,7 @@
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: top center;
-  background-attachment: fixed;
+  // background-attachment: fixed;
   background-color: #ccc;
 }
 
@@ -103,24 +103,42 @@
 .testimonial {
   background-color: #2D3646;
   padding-top: $spacing-unit;
-  padding-bottom: $spacing-unit*2;
+  padding-bottom: $spacing-unit;
+
   h2 {
     text-align: center;
     font-weight: bold;
     color: #fff;
   }
   .alumni {
-    color: #fff;
+    color: $text-color-soft;
     width: 720px;
-    height: 300px;
-    margin: $spacing-unit auto;
-    margin-top: $spacing-unit;
-    margin-bottom: $spacing-unit;
+    height: 325px;
+    margin: 0 auto;
+    // margin-top: $spacing-unit;
+    // margin-bottom: $spacing-unit;
     text-align: center;
     background-color: #203044;
-    padding: $spacing-unit;
+    padding: $spacing-unit $spacing-unit*3;
     p {
       font-size: $base-font-size;
+    }
+    b {
+      font-size: $large-font-size;
+      color: #fff;
+    }
+    .profile {
+      margin: $spacing-unit auto 0;
+    }
+    img {
+      width: 50px;
+      height: 50px;
+      margin-top: -15px;
+    }
+    .profile-text {
+      display: inline-block;
+      text-align: left;
+      padding-left: 10px;
     }
   }
 }
