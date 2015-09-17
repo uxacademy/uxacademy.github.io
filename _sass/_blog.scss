@@ -50,6 +50,9 @@
     }
     h3 {
       margin-top: $spacing-unit;
+      p {
+        color: $text-bold-color;
+      }
     }
     .article-title {
       font-size: 28px;

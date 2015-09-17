@@ -28,7 +28,9 @@ permalink: /blog/
       {% for post in site.posts %}
       <li class="article-item show article-{{post.date | date: "%Y"}}">
         <a href="{{ post.url }}">
-          <h3 class="article-title">{{ post.title | markdownify }}</h3>
+          <h3 class="article-title">
+            {{ post.title | markdownify }}
+          </h3>
         </a>
         <p class="article-date">
           {{ post.date | date: "%B %e, %Y" }} •

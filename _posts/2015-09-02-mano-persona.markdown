@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "UX Design ที่ใครๆก็ทำได้ ตอน **มโน** Persona"
+title:  UX Design ที่ใครๆก็ทำได้ ตอน **มโน** Persona
 date:   2015-09-02 17:02:40
 categories: case-study practice tip
 author: Thapanee
-banner: rabbit_love.jpg
+banner: dream_persona.jpg
 ---
 
 เมื่อวานทีมผมได้รับ Request จาก Product Owner (PO) ให้ช่วยสร้างๆ **Persona** ให้กับ Use Cases ต่างๆของ App ขึ้นมา
