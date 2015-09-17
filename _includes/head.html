@@ -11,8 +11,10 @@
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
-  <link href="/bower_components/owl.carousel/owl.carousel.css" rel="stylesheet">
-  <link href="/bower_components/owl.carousel/owl.theme.css" rel="stylesheet">
+  {% if (page.carousel == "using") %}
+    <link href="/bower_components/owl.carousel/owl.carousel.css" rel="stylesheet">
+    <link href="/bower_components/owl.carousel/owl.theme.css" rel="stylesheet">
+  {% endif %}
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 

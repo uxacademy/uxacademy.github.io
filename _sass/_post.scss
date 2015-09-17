@@ -6,15 +6,25 @@
 
   .post-header {
     @extend .container;
+    margin-top: $spacing-unit;
     .content {
-      @include easyread-content;
+      @include easyread-layout;
     }
   }
 
   .post-content {
     @extend .container;
     .content {
-      @include easyread-content;
+      @include easyread-layout;
+    }
+    b, strong {
+      color: $text-bold-color;
+    }
+    p {
+      margin-bottom: $spacing-unit;
+    }
+    img {
+      width: 100%;
     }
   }
 }

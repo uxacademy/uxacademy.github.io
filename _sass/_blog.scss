@@ -2,6 +2,7 @@
   // margin-top: $nav-height;
   .banner {
     background-image: url('/images/blog_banner.jpg');
+    background-position-y: 25%;
   }
 }
 
@@ -41,7 +42,7 @@
 .articles {
   @extend .container;
   .article-index {
-    @include easyread-content;
+    @include easyread-layout;
     list-style: none;
     padding-left: 0;
     li {

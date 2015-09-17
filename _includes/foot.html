@@ -1,9 +1,23 @@
-<script src="bower_components/jquery/dist/jquery.js"></script>
+<script src="/bower_components/jquery/dist/jquery.js"></script>
 
-<script src="bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js"></script>
+<script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js"></script>
+
+{% if (page.carousel == "using") %}
 
 <script src="/bower_components/owl.carousel/owl.carousel.min.js"></script>
 
-<!-- <script src="bower_components/handlebars/handlebars.js"></script> -->
+<script>
+$(document).ready(function() {
 
-<script src="/scripts/main.js"></script>
+  $("#carousel-alumni").owlCarousel({
+    slideSpeed : 300,
+    paginationSpeed : 400,
+    singleItem: true
+  });
+
+});
+</script>
+
+{% endif %}
+
+<!-- <script src="/scripts/main.js"></script> -->
