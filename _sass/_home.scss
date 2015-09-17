@@ -99,6 +99,26 @@
 
 }
 
+.services {
+  @extend .container;
+  padding: $spacing-unit 0;
+  h2 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: $spacing-unit;
+  }
+  .service {
+    @extend .col-md-4;
+    text-align: center;
+    h3 {
+      margin-top: 0;
+    }
+    p {
+      padding: 0 $spacing-unit;
+    }
+  }
+}
+
 .testimonial {
   background-color: #2D3646;
   padding-top: $spacing-unit;
