@@ -11,8 +11,16 @@ body {
   max-width: 970px;
 }
 
+.navbar-nav {
+  a {
+    color: #fff;
+    font-weight: bold;
+  }
+}
+
 .navbar-brand {
-  color: #000;
+  color: #fff;
+  font-weight: bold;
   padding: 11px 15px;
   > img {
       display: inline;

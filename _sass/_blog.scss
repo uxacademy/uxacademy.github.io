@@ -1,5 +1,5 @@
 .blog {
-  margin-top: $nav-height;
+  // margin-top: $nav-height;
   .banner {
     background-image: url('/images/blog_banner.jpg');
   }
@@ -75,6 +75,7 @@
 
 .rss-subscribe {
   @extend .container;
+  margin-top: $spacing-unit*2;
 }
 
 
