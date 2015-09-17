@@ -87,7 +87,7 @@
     margin-top: $spacing-unit;
   }
   .text-content {
-    @extend .col-md-5;
+    @extend .col-md-6;
   }
   .image-content {
     @extend .col-md-4;
@@ -108,6 +108,7 @@
     text-align: center;
     font-weight: bold;
     color: #fff;
+    margin-bottom: $spacing-unit;
   }
   .alumni {
     color: $text-color-soft;
