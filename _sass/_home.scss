@@ -233,6 +233,11 @@
       display: inline-block;
       text-align: left;
       padding-left: 10px;
+      .company {
+        br {
+          display:none;
+        }
+      }
     }
   }
   @include media-query($on-palm) {
@@ -254,7 +259,25 @@
       }
       .profile-text {
         width: 180px;
+        .company {
+          br {
+            display: inline-block;
+          }
+        }
       }
     }
+  }
+}
+
+.client {
+  padding-top: $spacing-unit;
+  p {
+    @extend .col-md-8;
+    @extend .col-md-offset-2;
+  }
+  text-align: center;
+  img {
+    padding-top: $spacing-unit;
+    width: 80%;
   }
 }
