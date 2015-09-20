@@ -3,7 +3,7 @@
 }
 
 #banner {
-  background-image: url('/images/uxacademy_banner_blue.png');
+  background-image: url('/images/uxacademy_banner_blue.jpg');
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: top center;
@@ -13,7 +13,6 @@
   .banner-content{
     padding: 180px 0px;
     .banner-text{
-      width: 100%;
       max-width: 800px;
       margin: 0px auto 20px auto;
       border-top: 1px solid #fff;
@@ -30,6 +29,27 @@
           font-family: $base-font-family;
           margin-bottom: 20px;
       }
+      @include media-query($on-laptop) {
+        width: 80%;
+        h1{
+          font-size: 40px;
+        }
+      }
+    }
+  }
+  @include media-query($on-palm) {
+    background-size: 150% auto;
+    .banner-content{
+      padding: 135px 0px 80px;
+      .banner-text{
+        width: 80%;
+        h1{
+          font-size: 20px;
+        }
+        h4{
+          font-size: 12px;
+        }
+      }
     }
   }
 }
@@ -39,6 +59,9 @@
   .text-content {
     padding-top: 100px;
     @extend .col-md-4;
+    @extend .col-md-offset-0;
+    @extend .col-sm-10;
+    @extend .col-sm-offset-1;
   }
   .image-content {
     @extend .col-md-8;
@@ -52,15 +75,40 @@
       margin-right: 0px;
     }
   }
+  @include media-query($on-laptop) {
+    .text-content {
+      padding-top: 20px;
+    }
+    .image-content {
+      padding: $spacing-unit 0px;
+    }
+    p {
+      margin-bottom: $spacing-unit;
+    }
+  }
+  @include media-query($on-palm) {
+    .image-content {
+      padding: 0px 0px $spacing-unit;
+      img {
+        width: 85px;
+        margin-right: 10px;
+      }
+    }
+  }
 }
 
 .course-banner{
-  background-image: url('/images/course_banner_blue.png');
+  background-image: url('/images/course_banner_blue.jpg');
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: top center;
-  // background-attachment: fixed;
-  background-color: #ccc;
+  background-color: #313F54;
+  @include media-query($on-laptop) {
+    background-size: 150% auto;
+  }
+  @include media-query($on-palm) {
+    background-image: none;
+  }
 }
 
 .course {
@@ -76,27 +124,42 @@
   }
   h4.note {
     text-align: center;
-    margin: $spacing-unit 0px;
+    margin: $spacing-unit*2 0px $spacing-unit;
     a {
       color: #fff;
       font-weight: bold;
     }
   }
   .basic, .advance {
-    @extend .row;
+    @extend .col-md-6;
+    @extend .col-sm-6;
     margin-top: $spacing-unit;
   }
   .text-content {
-    @extend .col-md-6;
+    margin-top: $spacing-unit;
   }
   .image-content {
-    @extend .col-md-4;
-    @extend .col-md-offset-1;
     img {
-      width: 280px;
+      width: 100%;
     }
   }
-
+  @include media-query($on-palm) {
+    h3{
+      font-weight: bold;
+      font-size: 18px;
+      text-align: center;
+    }
+    p {
+      font-size: 15px;
+      text-align: center;
+    }
+    .advance {
+      margin-top: $spacing-unit*2;
+    }
+    a {
+      display: block;
+    }
+  }
 }
 
 .services {
@@ -107,8 +170,12 @@
     font-weight: bold;
     margin-bottom: $spacing-unit;
   }
+  p {
+    text-align: center;
+  }
   .service {
     @extend .col-md-4;
+    @extend .col-sm-4;
     text-align: center;
     h3 {
       margin-top: 0;
@@ -135,8 +202,6 @@
     width: 720px;
     height: 325px;
     margin: 0 auto;
-    // margin-top: $spacing-unit;
-    // margin-bottom: $spacing-unit;
     text-align: center;
     background-color: #203044;
     padding: $spacing-unit $spacing-unit*3;
@@ -154,11 +219,34 @@
       width: 50px;
       height: 50px;
       margin-top: -15px;
+      @include border-radius(50%);
     }
     .profile-text {
       display: inline-block;
       text-align: left;
       padding-left: 10px;
+    }
+  }
+  @include media-query($on-laptop) {
+    .alumni {
+      width: 85%;
+      padding: $spacing-unit;
+      height: 400px;
+      img {
+        width: 50px;
+        height: 50px;
+        margin-top: -15px;
+        @include border-radius(50%);
+      }
+      .profile {
+        margin: $spacing-unit/2 auto 0;
+      }
+      img {
+        margin-top: -45px;
+      }
+      .profile-text {
+        width: 180px;
+      }
     }
   }
 }
