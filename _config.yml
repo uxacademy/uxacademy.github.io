@@ -7,8 +7,10 @@ description: >
   Our service is Training, Coaching and UX Consultant.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://uxacademy.github.io" # the base hostname & protocol for your site
-twitter_username: apirak
+# twitter_username: apirak
 github_username:  uxacademy
+facebook_group: groups/ux.in.th
+facebook_page: uxacademy.th
 
 # Build settings
 markdown: kramdown

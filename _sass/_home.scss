@@ -226,8 +226,15 @@
       text-align: left;
       padding-left: 10px;
     }
+    a {
+      color: $text-color-soft;
+      &:hover {
+        color: $text-color-light;
+        text-decoration: none;
+      }
+    }
   }
-  @include media-query($on-laptop) {
+  @include media-query($on-palm) {
     .alumni {
       width: 85%;
       padding: $spacing-unit;
