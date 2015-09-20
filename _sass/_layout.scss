@@ -7,13 +7,21 @@
 }
 
 .navbar-float-top {
+  @include link-on-dark;
+
   border-width: 0 0 1px;
   border-radius: 0;
   z-index: 1030;
   float: left;
   margin: 0 auto;
   width: 100%;
+  .nav {
+    a:hover, a:focus {
+      background-color: rgba(0,0,0,0);
+    }
   }
+}
+
 
 .navbar-toggle {
   position: relative;

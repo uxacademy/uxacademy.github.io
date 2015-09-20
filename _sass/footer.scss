@@ -3,15 +3,8 @@
  */
 
 footer {
+  @include link-on-dark;
   background-color: $grey-color-dark;
-
-  a {
-    color: $text-color-soft;
-    &:hover {
-      color: $text-color-light;
-      text-decoration: none;
-    }
-  }
 
   .site-footer {
     @extend .container;
