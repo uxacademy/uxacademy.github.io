@@ -1,7 +1,9 @@
 .post {
-  // margin-top: $nav-height;
   .banner {
     height: 400px;
+    @include media-query($on-palm) {
+      height: 200px;
+    }
   }
 
   .post-header {
@@ -9,6 +11,14 @@
     margin-top: $spacing-unit;
     .content {
       @include easyread-layout;
+    }
+    @include media-query($on-palm) {
+      .content {
+        h1 {
+          font-size: $large-font-size;
+          font-weight: bold;
+        }
+      }
     }
   }
 
