@@ -29,4 +29,20 @@ layout: default
     </div>
   </article>
 
+  <div class="next-previous-post">
+    {% if page.previous.url %}
+      &laquo; Previous post:
+      <a class="prev" href="{{page.previous.url}}">
+        {{ page.previous.title | markdownify }}
+      </a>
+    {% endif %}
+
+    {% if page.next.url %}
+      Next post &raquo;
+      <a class="next" href="{{page.next.url}}">
+        {{ page.next.title | markdownify }}
+      </a>
+    {% endif %}
+  </div>
+
 </div>

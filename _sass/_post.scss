@@ -37,4 +37,9 @@
       width: 100%;
     }
   }
+
+  .next-previous-post {
+    @extend .container;
+  }
+
 }

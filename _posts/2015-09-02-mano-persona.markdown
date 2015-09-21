@@ -2,7 +2,7 @@
 layout: post
 title:  UX Design ที่ใครๆก็ทำได้ ตอน **มโน** Persona
 date:   2015-09-02 17:02:40
-categories: case-study practice tip
+categories: case-study tip
 author: Thapanee
 banner: dream_persona.jpg
 ---
