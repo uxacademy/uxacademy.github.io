@@ -7,6 +7,12 @@ body {
      font-smoothing: antialiased;
 }
 
+p {
+  b, strong {
+    color: $text-bold-color;
+  }
+}
+
 .container{
   max-width: 970px;
 }
