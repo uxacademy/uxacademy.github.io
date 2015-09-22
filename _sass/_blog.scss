@@ -20,42 +20,6 @@
     }
   }
 
-  .categories {
-    @extend .container;
-    border-top: 2px solid $grey-color-light;
-    border-bottom: 2px solid $grey-color-light;
-    margin-top: $spacing-unit;
-
-    h2{
-      float: left;
-    }
-    .category-list {
-      margin-top: 20px;
-      float: right;
-      padding: 0;
-      list-style: none;
-      li {
-        float: left;
-        > a {
-          color: #fff;
-          float: left;
-          margin: 0 4px 8px;
-          padding: 4px 8px;
-          @media (max-width: 450px) { font-size: 16px; }
-          background-color: #abc;
-          border-radius: 5px;
-          &:hover {
-            opacity: .6;
-            text-decoration: none;
-          }
-        }
-      }
-    }
-    @include media-query($on-palm) {
-      display: none;
-    }
-  }
-
   .articles {
     @extend .container;
     .article-index {
@@ -102,9 +66,65 @@
     }
   }
 
+  .categories {
+    @extend .container;
+    margin-top: $spacing-unit;
+    .content {
+      @include easyread-layout;
+      border-top: 2px solid $grey-color-light;
+      border-bottom: 2px solid $grey-color-light;
+      padding-left: 0px;
+      padding-right: 0px;
+      h4{
+        float: left;
+        margin-top: 15px;
+      }
+    }
+
+    .category-list {
+      margin-top: 10px;
+      margin-bottom: 5px;
+      float: right;
+      padding: 0;
+      list-style: none;
+      li {
+        float: left;
+        > a {
+          color: #fff;
+          float: left;
+          margin: 0 4px 8px;
+          padding: 4px 8px;
+          @media (max-width: 450px) { font-size: 16px; }
+          background-color: #abc;
+          border-radius: 5px;
+          &:hover {
+            opacity: .6;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+    @include media-query($on-laptop) {
+      padding-left: 25px;
+      padding-right: 25px;
+    }
+    @include media-query($on-palm) {
+      .content {
+        border-top: 0;
+        border-bottom: 0;
+      }
+    }
+  }
+
   .rss-subscribe {
     @extend .container;
+    text-align: center;
     margin-top: $spacing-unit*2;
+    margin-bottom: $spacing-unit*2;
+    @include media-query($on-palm) {
+      margin-top: $spacing-unit;
+      margin-bottom: $spacing-unit;
+    }
   }
 
   .section-heading h2 {
