@@ -23,7 +23,11 @@
             </a>
           </li>
           <li>
-            <a href="{{ site.url }}#course">
+            {% if page.url == "/index.html" %}
+              <a href="#course">
+            {% else %}
+              <a href="{{ site.url }}#course">
+            {% endif%}
               Course Schedule
             </a>
           </li>
