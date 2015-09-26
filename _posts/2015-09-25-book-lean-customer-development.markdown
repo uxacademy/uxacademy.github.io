@@ -9,30 +9,30 @@ banner: market.jpg
 
 ปีนี้ได้อ่านหนังสือดีๆ หลายเล่มเลยครับ หนึ่งในนั้นคือหนังสือเรื่อง Lean Customer Development ของ Cindy Alvarez
 
-<!--more-->
-
 ![lean customer development cover](/images/blog/lean_customer_development_cover.jpg)
 
 เค้าเล่าถึงกระบวนการที่จะหาว่าผู้ใช้ของเราคือใคร มีนิสัยใจคออย่างไร และมีปัญหาอะไรในชีวิต ที่เราพอจะแก้ให้เค้าได้ ผมชอบกระบวนการที่เค้าแนะนำ เช่นเทคนิคในการทำ interview และเทคนิคในการสร้างสมติฐาน แต่ที่ชอบมากๆ คือในช่วงแรกของหนังสือเค้าพูดแรงๆ เพื่อให้เราลองคิดใหม่ว่า
+
+<!--more-->
 
 >   Without customers willing to buy, it doesn’t matter how
 >   good or innovative or beautiful or reasonably priced
 >   a product is: it will fail.
 >
 >   It make no sense, then, that we spend most of our time
->   and effort optimizing our product development process. 
->   What about customer development? Shouldn’t we invest 
->   at least as much time in understanding our customers, 
+>   and effort optimizing our product development process.
+>   What about customer development? Shouldn’t we invest
+>   at least as much time in understanding our customers,
 >   their needs and pain points, and how to deliver solution to them?
 
 ผมแปลได้ประมาณนี้ครับ
 
->   ถ้าผู้ใช้ไม่สนใจจะซื้อ ไม่ว่าสินค้าของเราจะดี หรือสร้างสรรค์ หรือตั้งราคาได้สมเหตุผลแค่ไหน 
+>   ถ้าผู้ใช้ไม่สนใจจะซื้อ ไม่ว่าสินค้าของเราจะดี หรือสร้างสรรค์ หรือตั้งราคาได้สมเหตุผลแค่ไหน
 >   มันก็ไม่สำเร็จอยู่ดี
 >
->   มันไม่เข้าท่าเลยที่เราจะยอมเสียเวลามาปรับปรุงกระบวนการพัฒนาสินค้าตัวนั้น 
->   แล้วกระบวนการ "Customer Develpment" ล่ะ เราควรลงทุนเวลาให้มากที่สุดหรือเปล่า  
->   เพื่อจะเข้าใจลูกค้าของเรา เพื่อให้รู้ความต้องการและปัญหาที่แท้จริงของลูกค้า 
+>   มันไม่เข้าท่าเลยที่เราจะยอมเสียเวลามาปรับปรุงกระบวนการพัฒนาสินค้าตัวนั้น
+>   แล้วกระบวนการ "Customer Develpment" ล่ะ เราควรลงทุนเวลาให้มากที่สุดหรือเปล่า
+>   เพื่อจะเข้าใจลูกค้าของเรา เพื่อให้รู้ความต้องการและปัญหาที่แท้จริงของลูกค้า
 >   จะได้หาทางว่าเราจะแก้ปัญหาให้กับลูกค้าได้อย่างไร
 
 หลายครั้งเราจะพยายามใส่พลังลงไปใน UI เพื่อทำให้มันง่าย เพื่อทำให้ตรงกับความต้องการของผู้ใช้ แต่เอาเข้าจริงแล้ว เราควรรีบใส่พลังลงไปหรือเปล่า หรือจริงๆ เราควรใส่พลังในการทำความเข้าใจผู้ใช้มากกว่านี้
