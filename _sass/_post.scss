@@ -32,6 +32,9 @@
     }
     p {
       margin-bottom: $spacing-unit;
+      em:last-child {
+        display: block;
+      }
     }
     img {
 
