@@ -132,6 +132,12 @@
     }
   }
 
+  .pagination {
+    @extend .container;
+    display: block;
+    text-align: center;
+  }
+
   .rss-subscribe {
     @extend .container;
     text-align: center;
