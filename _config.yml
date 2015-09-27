@@ -6,7 +6,7 @@ description: >
   User Interview, Usability Testing, Data Analytic, Cretique UI.
   Our service is Training, Coaching and UX Consultant.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://uxacademy.github.io" # the base hostname & protocol for your site
+url: "http://uxacademy.in.th" # the base hostname & protocol for your site
 # twitter_username: apirak
 github_username:  uxacademy
 facebook_group: groups/ux.in.th

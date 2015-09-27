@@ -30,7 +30,7 @@
         margin: 0 0;
       }
       h3 {
-        margin-top: $spacing-unit;
+        margin-top: 10px;
         p {
           color: $text-bold-color;
         }
@@ -43,6 +43,8 @@
         line-height: 1.2;
       }
       .article-date {
+        color: $grey-color-light;
+        font-style: italic;
         font-size: 16px;
         margin: 0;
         font-weight: 400;
@@ -51,6 +53,14 @@
       .article-excerpt {
         color: $text_color;
         margin: 7px 0 0;
+      }
+      .article-item {
+        margin-top: $spacing-unit*2;
+        p {
+          img {
+            height: 200px;
+          }
+        }
       }
       a { display: block;
         &:hover { opacity: .8; }

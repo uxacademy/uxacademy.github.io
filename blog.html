@@ -19,16 +19,18 @@ permalink: /blog/
     <ul class="article-index">
       {% for post in site.posts %}
       <li class="article-item show article-{{post.date | date: "%Y"}}">
+        <p class="article-date">
+          {{ post.date | date: "%B %e, %Y" }}
+        </p>
         <a href="{{ post.url }}">
           <h3 class="article-title">
             {{ post.title | markdownify }}
           </h3>
         </a>
-        <p class="article-date">
-          {{ post.date | date: "%B %e, %Y" }}
-        </p>
         <p class="article-excerpt">
           {{ post.excerpt }}
+          <a href="{{ post.url }}">ยังไม่จบ...</a>
+        </a>
         </p>
       </li>
       {% endfor %}
