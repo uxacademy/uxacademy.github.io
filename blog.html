@@ -21,6 +21,8 @@ permalink: /blog/
       <li class="article-item show article-{{post.date | date: "%Y"}}">
         <p class="article-date">
           {{ post.date | date: "%B %e, %Y" }}
+          by
+          {{ post.author}}
         </p>
         <a href="{{ post.url }}">
           <h3 class="article-title">

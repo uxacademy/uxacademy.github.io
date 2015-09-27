@@ -81,8 +81,8 @@
     margin-top: $spacing-unit;
     .content {
       @include easyread-layout;
-      border-top: 2px solid $grey-color-light;
-      border-bottom: 2px solid $grey-color-light;
+      border-top: 1px solid $grey-color-light;
+      border-bottom: 1px solid $grey-color-light;
       padding-left: 0px;
       padding-right: 0px;
       h4{
