@@ -17,3 +17,4 @@ markdown: kramdown
 excerpt_separator: <!--more-->
 paginate: 5
 paginate_path: "/blog/page:num/"
+google_analytics_id: "UA-59158027-1"
