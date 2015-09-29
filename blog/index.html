@@ -29,9 +29,9 @@ title: Blog
           </h3>
         </a>
         <p class="article-excerpt">
-          {{ post.excerpt }}
+          {{ post.excerpt | remove:'<b>' | remove: '</b>' }}
           <a href="{{ post.url }}">ยังไม่จบ...</a>
-        </a>
+        </a
         </p>
       </li>
       {% endfor %}
