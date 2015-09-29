@@ -7,9 +7,20 @@ body {
      font-smoothing: antialiased;
 }
 
+b {
+  color: #fff;
+  background-color: $text-background-color;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  // display: inline-block;
+}
+
 p {
   b, strong {
-    color: $text-bold-color;
+    color: #fff;
+    background-color: $text-background-color;
   }
 }
 
