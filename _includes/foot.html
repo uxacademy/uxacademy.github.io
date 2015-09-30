@@ -6,6 +6,8 @@
 
 <script src="/bower_components/owl.carousel/owl.carousel.min.js"></script>
 
+<script src="/bower_components/typed.js/dist/typed.min.js"></script>
+
 <script>
 $(document).ready(function() {
 
@@ -13,6 +15,19 @@ $(document).ready(function() {
     slideSpeed : 300,
     paginationSpeed : 300,
     singleItem: true
+  });
+
+  $(function(){
+      $(".typed").typed({
+          strings: ["HAPPINESS", "COLLABORATION", "WORKFLOW", "INTERFACE", "USABILITY", "INTERACTION", "EXPERIENCE"],
+          typeSpeed: 100,
+          startDelay: 1000,
+          backSeed: 1000,
+          backDelay: 2000,
+          loop: false,
+          loopCount: false,
+          showCursor: true
+      });
   });
 
 });

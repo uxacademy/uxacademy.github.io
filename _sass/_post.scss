@@ -27,9 +27,6 @@
     .content {
       @include easyread-layout;
     }
-    b, strong {
-      color: $text-bold-color;
-    }
     p {
       margin-bottom: $spacing-unit;
       em:last-child {

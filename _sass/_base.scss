@@ -15,9 +15,10 @@ b {
 
 p {
   b, strong {
-    color: #fff;
-    background-color: $text-background-color;
-    padding: 3px 5px;
+    @extend b;
+    // color: #fff;
+    // background-color: $text-background-color;
+    // padding: 3px 5px;
   }
 }
 

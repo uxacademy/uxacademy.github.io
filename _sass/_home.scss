@@ -15,19 +15,23 @@
     .banner-text{
       max-width: 800px;
       margin: 0px auto 20px auto;
-      // border-top: 1px solid #fff;
-      // border-bottom: 1px solid #fff;
       h1{
-          font-size: 56px;
+          font-size: 40px;
           text-transform: uppercase;
           font-family: $base-font-family;
           font-weight: bold;
           margin-bottom: 0px;
+          text-align: left;
+          padding: 0px 0px 0px 20%;
       }
       h4{
           font-size: 20px;
           font-family: $base-font-family;
           margin-bottom: 20px;
+      }
+      .hightlight {
+        background-color: $text-background-color;
+        padding: 3px 5px;
       }
       @include media-query($on-laptop) {
         width: 80%;
@@ -289,4 +293,28 @@
     padding-top: $spacing-unit;
     width: 80%;
   }
+}
+
+
+/* TYPED blinking cursor */
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }
