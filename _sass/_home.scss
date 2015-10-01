@@ -34,7 +34,7 @@
         padding: 3px 5px;
       }
       @include media-query($on-laptop) {
-        width: 80%;
+        width: 100%;
         h1{
           font-size: 40px;
         }
@@ -46,9 +46,10 @@
     .banner-content{
       padding: 100px 0px 80px;
       .banner-text{
-        width: 80%;
+        width: 100%;
         h1{
           font-size: 20px;
+          padding: 0px 0px 0px 20%;
         }
         h4{
           font-size: 12px;
