@@ -11,7 +11,7 @@ banner: market.jpg
 เพราะดูจากปกแล้วท่าทางเป็นหนังสือวิชาการมากๆ แต่บังเอิญมีคนแนะนำและมันตรงกับสิ่งที่กำลังตามหาอยู่
 จึงลองอ่านดูครับ
 
-![Agile Experience Designer](/images/blog/agile_experience_design_book.jpg)
+![Agile Experience Designer](https://dl.dropboxusercontent.com/u/1117856/ux.in.th/agile_UX.jpg)
 
 พออ่านก็ติดเลยครับ หนังสือพูดถึงเรื่อง การใช้ UX ใน Agile Process 
 ซึ่งตอนแรกดูเหมือนเป็นความพยายามที่ ดูจะขัดกับหลักการของ Agile อยู่หลายที่ 
@@ -49,7 +49,7 @@ banner: market.jpg
 ถ้าเราสามารถเข้าใจรูปแบบในการพัฒนาได้ เราจะสามารถลดเวลาในการพัฒนาได้อย่างมาก โดยการออกแบบ
 ให้สอดคล้องกับรูปแบบที่มีให้ใช้อยู่แล้วของเครื่องมือนั้นๆ 
 
-![ios android form](/images/blog/ios_android_form.jpg)
+![ios android form](https://dl.dropboxusercontent.com/u/1117856/ux.in.th/osx_to_ios.jpg)
 
 ยกตัวอย่างเช่น ถ้านักออกแบบเข้าใจพื้นฐานในการสร้าง form ของ iOS และ Android ก็จะสามารถออกแบบ
 form ต่างๆ ให้หน้าตาเหมือน form มาตรฐานของทั้งสอง platform ซึ่งช่วยให้ใช้เวลาในการพัฒนาไม่มาก
