@@ -27,6 +27,7 @@ banner: market.jpg
 
 > three pillars of focus that will help you in your agile discovery. 
 > These align to the different stakeholders in the project:
+>
 > * Business intentions
 > * Customer insights
 > * IT implementation
