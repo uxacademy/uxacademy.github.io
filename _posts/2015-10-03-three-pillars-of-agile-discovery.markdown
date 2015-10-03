@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  สามสิ่งที่ควรมองหาตอนทำ Agile Discovery
-date:   2015-010-3 21:26:40
+date:   2015-10-3 21:26:40
 categories: study empathy
 author: Apirak
 banner: market.jpg
