@@ -7,9 +7,18 @@ body {
      font-smoothing: antialiased;
 }
 
+b {
+  color: #fff;
+  background-color: $text-background-color;
+  padding: 3px 5px;
+}
+
 p {
   b, strong {
-    color: $text-bold-color;
+    @extend b;
+    // color: #fff;
+    // background-color: $text-background-color;
+    // padding: 3px 5px;
   }
 }
 
