@@ -20,3 +20,4 @@ paginate_path: "/blog/page:num/"
 google_analytics_id: "UA-59158027-1"
 gems:
   - jekyll-auto-image
+image: "/images/site_icons/site_icon-256x256.png"
