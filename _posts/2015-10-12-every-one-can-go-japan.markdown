@@ -5,6 +5,7 @@ date:   2015-10-12 21:26:40
 categories: realworld
 author: Vilavan
 banner: airport.jpg
+image: /images/blog/jui_japan_omoto.png
 ---
 
 เมื่อหลายเดือนก่อนได้อ่านหนังสือเรื่อง เยอรมันซันเดย์ เป็นหนังสือที่กล่าวถึงเเนวความคิดของคนในเเต่ละที่ ที่ส่งผลทำให้เกิดเป็นวัฒนธรรมของชนชาตินั้นๆ

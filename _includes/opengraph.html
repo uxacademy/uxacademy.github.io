@@ -31,7 +31,7 @@
 {% if page.image %}
   <meta content="{{ page.image | prepend: site.baseurl | prepend: site.url }}" property="og:image">
 {% else %}
-  <meta content="/images/site_icons/site_icon-256x256.png" property="og:image">
+  <meta content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" property="og:image">
 {% endif %}
 
 {% if page.categories %}
