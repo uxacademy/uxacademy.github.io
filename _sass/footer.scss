@@ -2,16 +2,17 @@
  * Site footer
  */
 
-footer {
+.background-footer {
+  width:100%;
   @include link-on-dark;
   background-color: $grey-color-dark;
+  color: $grey-color-light;
+}
 
-  .site-footer {
-    @extend .container;
-    color: $grey-color-light;
-    background-color: $grey-color-dark;
-    padding: $spacing-unit 0;
-  }
+footer {
+  @extend .container;
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
 
   .contact-list, .social-media-list {
       list-style: none;
@@ -20,16 +21,19 @@ footer {
   }
 
   .contact {
+    @extend .col-lg-4;
     @extend .col-md-3;
     @extend .col-sm-3;
   }
 
   .social-media-list {
+    @extend .col-lg-4;
     @extend .col-md-3;
     @extend .col-sm-3;
   }
 
   .description {
+    @extend .col-lg-4;
     @extend .col-md-6;
     @extend .col-sm-6;
   }
@@ -39,15 +43,18 @@ footer {
       margin-bottom: $spacing-unit / 2;
   }
   @include media-query($on-palm) {
-    .contact-list {
-      padding-left: 20px;
-    }
-    .social-media-list {
-      padding-left: 35px;
-    }
+    // .contact, .social-media-list, .description {
+    //   padding-right: 0px;
+    // }
+    // .contact-list {
+    //   padding-left: 20px;
+    //   padding-right: 20px;
+    // }
+    // .social-media-list {
+    //   padding-left: 35px;
+    // }
     .description {
-      padding-left: 35px;
-      padding-right: 35px;
+
     }
   }
 }
