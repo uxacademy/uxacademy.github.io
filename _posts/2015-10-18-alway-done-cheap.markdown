@@ -4,7 +4,7 @@ title:  อย่าทำของแพง
 date:   2015-10-18 21:26:40
 categories: study prototype
 author: Apirak
-banner: blog/timer_pomodoro.jpg
+banner: blog/slotmachine.jpg
 image: /images/blog/easy_wireframe.jpg
 ---
 
