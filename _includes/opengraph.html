@@ -1,16 +1,10 @@
-<meta property="og:locale" content="th_TH" />
+<meta property="og:locale" content="th" />
 <meta content="{{ site.title }}" property="og:site_name">
 
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
 {% else %}
   <meta content="{{ site.name }}" property="og:title">
-{% endif %}
-
-{% if page.date %}
-  <meta content="article" property="og:type">
-{% else %}
-  <meta content="website" property="og:type">
 {% endif %}
 
 {% if page.excerpt %}
@@ -23,15 +17,22 @@
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
 {% endif %}
 
-{% if page.date %}
-  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-  <!-- <meta content="{{ site.url }}/about/" property="article:author"> -->
-{% endif %}
-
 {% if page.image %}
   <meta content="{{ page.image | prepend: site.baseurl | prepend: site.url }}" property="og:image">
 {% else %}
   <meta content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" property="og:image">
+{% endif %}
+
+
+{% if page.date %}
+  <meta content="article" property="og:type">
+{% else %}
+  <meta content="website" property="og:type">
+{% endif %}
+
+{% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <!-- <meta content="{{ site.url }}/about/" property="article:author"> -->
 {% endif %}
 
 {% if page.categories %}
