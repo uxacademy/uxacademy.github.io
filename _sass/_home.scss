@@ -189,6 +189,7 @@
 
 .services {
   @extend .container;
+  padding: $spacing-unit;
   .overview {
     @extend .col-md-12;
     h2 {

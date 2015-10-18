@@ -1,6 +1,7 @@
 .post {
   .banner {
     height: 400px;
+    background-position-y: 50%;
     @include media-query($on-palm) {
       height: 200px;
     }
@@ -11,6 +12,12 @@
     margin-top: $spacing-unit;
     .content {
       @include easyread-layout;
+      h1{
+        color: $text-bold-color;
+      }
+      .post-meta {
+        margin-bottom: 0px;
+      }
     }
     @include media-query($on-palm) {
       .content {
@@ -29,6 +36,7 @@
     }
     p {
       margin-bottom: $spacing-unit;
+      line-height: 160%;
       em:last-child {
         display: block;
       }
