@@ -6,7 +6,7 @@ type: post
 published: true
 status: publish
 categories: event
-author: Apirak Panatkool
+author: Apirak
 banner: categoey_event.jpg
 tags:
 - uxtalk
