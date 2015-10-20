@@ -1,15 +1,13 @@
 ---
-layout: post
-title: คุณโอ๊ต speker คนที่สองของงาน UX Talk ตอน Enterprise
-date: 2015-05-11 22:28:08.000000000 +07:00
-type: post
-published: true
-status: publish
-categories: event
-author: Apirak
-banner: categoey_event.jpg
-tags:
-- uxtalk
+layout:           post
+title:            "คุณโอ๊ต speker คนที่สองของงาน UX Talk ตอน Enterprise"
+date:             2015-5-11T13:04:19+05:45
+last_modified_at: 2015-5-11T05:20:00+05:45
+categories:       event
+author:           Apirak
+banner:           categoey_event.jpg
+image:            /assets/oat_small.jpg
+tags:             ["uxtalk", "oat"]
 ---
 
 ในใบรับสมัครงานตำแหน่ง UX มักถูกพ่วงมาด้วยตำแหน่ง UI จนกลายเป็นเรื่องที่เราเห็นเป็นปกติ นั่นคงเป็นเพราะจริงๆ แล้วบริษัทอยากได้คนมาทำ UI แล้วคิดว่างาน UX คือการออกแบบ UI ที่ทำให้ผู้ใช้ใช้งานได้ง่าย ทำให้กลายเป็นตำแหน่ง UX/UI

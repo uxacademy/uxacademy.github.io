@@ -1,12 +1,14 @@
 # Site settings
-title: UX Academy
-email: apirakb@gmail.com
+locale:         th
+title:          "UX Academy"
+name:           "UX Academy"
+email:          apirakb@gmail.com
 description: >
   UX Academy is a company focusing on User Experience, User Research,
   User Interview, Usability Testing, Data Analytic, Cretique UI.
   Our service is Training, Coaching and UX Consultant.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://uxacademy.in.th" # the base hostname & protocol for your site
+baseurl:        "" # the subpath of your site, e.g. /blog/
+url:            "http://uxacademy.in.th"
 # twitter_username: apirak
 github_username:  uxacademy
 facebook_group: groups/ux.in.th
@@ -18,6 +20,18 @@ excerpt_separator: <!--more-->
 paginate: 5
 paginate_path: "/blog/page:num/"
 google_analytics_id: "UA-59158027-1"
+
+image:          "/images/site_icons/site_icon-256x256.png"
+icon:           "/images/site_icons/site_icon-256x256.png"
+
+timezone:       Asia/Bangkok
+
+author:
+  facebook:     apirak
+  twitter:      apirak
+  google_plus:  apirakpanatkool
+fb_admins:      644389187
+fb_appid:       1195873630426381
+
 gems:
   - jekyll-auto-image
-image: "/images/site_icons/site_icon-256x256.png"

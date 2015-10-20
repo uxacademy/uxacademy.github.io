@@ -1,18 +1,15 @@
 ---
-layout: post
-title: วัดความเป็น UX ของตัวเรา
-date: 2015-04-17 08:29:07.000000000 +07:00
-type: post
-published: true
-status: publish
-categories: study
-banner: categoey_event.jpg
-tags:
-- assesment
-- measurement
-- skill
-author: Apirak
+layout:           post
+title:            "วัดความเป็น UX ของตัวเรา"
+date:             2015-4-17T13:04:19+05:45
+last_modified_at: 2015-4-17T05:20:00+05:45
+categories:       study
+author:           Apirak
+banner:           categoey_event.jpg
+image:            /assets/1429233244_thumb.png
+tags:             ["assesment", "measurement", "skill"]
 ---
+
 
 > “ความสามารถด้าน UX มีแค่ไหนแล้ว”
 

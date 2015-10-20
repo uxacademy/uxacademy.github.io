@@ -1,18 +1,16 @@
 ---
-layout: post
-title: Outlook New look พื้นที่ทำงาน
-date: 2012-08-03 21:27:00.000000000 +07:00
-type: post
-published: true
-status: publish
-categories: case-study UI
-author: Apirak Panatkool
-banner: axion_ui.jpg
-tags:
-- metro
-- outlook
-blogger_self: https://www.blogger.com/feeds/164893737343921889/posts/default/330905082353311369
+layout:           post
+title:            "Outlook New look พื้นที่ทำงาน"
+date:             2015-8-3T13:04:19+05:45
+last_modified_at: 2015-8-3T05:20:00+05:45
+categories:       case-study UI
+author:           Apirak
+banner:           axion_ui.jpg
+image:            /assets/Screen+Shot+2555-08-04+at+7.51.59+PM.png
+tags:             ["metro", "outlook"]
+blogger_self: https://www.blogger.com/feeds/164893737343921889/posts/default/9151613364048242708
 ---
+
 
 โปรแกรม mail กลายเป็นโปรแกรมสำคัญเพื่อให้ ecosystem ของทั้่ง google, microsoft และ apple สมบูรณ์ ดังนั้นเราจึงสามารถวิเคราะห์ยุทธศาสตร์ที่แต่ค่ายวางแผนไว้ได้โดยผ่านโปรแกรม Mail ที่ทั้งสามค่าส่งออกมา
 

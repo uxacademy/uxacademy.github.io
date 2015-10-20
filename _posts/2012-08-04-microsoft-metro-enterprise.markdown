@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Microsoft แสดงหน้าจอ Metro สำหรับงาน Enterprise
-date: 2012-08-04 22:54:00.000000000 +07:00
-type: post
-published: true
-status: publish
-categories: case study UI
-author: Apirak Panatkool
-banner: axion_ui.jpg
-tags:
-- enterprise
-- metro
+layout:           post
+title:            "Microsoft แสดงหน้าจอ Metro สำหรับงาน Enterprise"
+date:             2015-8-4T13:04:19+05:45
+last_modified_at: 2015-8-4T05:20:00+05:45
+categories:       study
+author:           Apirak
+banner:           axion_ui.jpg
+image:            /assets/dynamics-dashboard.png
+tags:             ["question", "ux"]
 blogger_self: https://www.blogger.com/feeds/164893737343921889/posts/default/9151613364048242708
 ---
+
+
 หลายคนพอเห็น Theme Metro มักจะนึกว่า รูปแบบโล่งๆ แบบนี้เวลาเอาไปทำงาน Enterprise ที่มันซับซ้อนมากๆ จะออกแบบให้มันเข้ากับ Metro ได้อย่างไร
 
 ช่วงต้นปี Microsoft เปิด video keynote บนเว็บ msconvergence.com แสดงให้เราดูว่าเจ้า Metro ก็สามารถเป็น Enterprise Application ได้เหมือนกันนะ

@@ -1,18 +1,15 @@
 ---
-layout: post
-title: ถามอย่าง UX
-date: 2015-04-01 23:16:08.000000000 +07:00
-type: post
-published: true
-status: publish
-categories:
-- study
-tags:
-- quesiton
-- ux
-banner: categoey_event.jpg
-author: Apirak
+layout:           post
+title:            "ถามอย่าง UX"
+date:             2015-4-1T13:04:19+05:45
+last_modified_at: 2015-4-1T05:20:00+05:45
+categories:       study
+author:           Apirak
+banner:           categoey_event.jpg
+image:            /assets/1429233244_thumb.png
+tags:             ["question", "ux"]
 ---
+
 
 วันนี้ไปเจอบทความของ Jason Grant บนเว็บ [uxmovement.com](http://uxmovement.com/thinking/the-art-of-questioning-as-a-ux-skill/ "The art of questioning as a UX Skill") เค้าเขียนบทความเกี่ยวกับการตั้งคำถามสำหรับคนที่เป็น UX โดยคุณ Grant ได้ไปอ่านหนังสือ [A More Beautiful Question](http://amorebeautifulquestion.com/ "a more beautiful question") ของ Warren Berger เค้าเลยเอามาต่อยอด ส่วนผมอ่านแล้วชอบผมเลยขอเอามาเล่าต่อเป็นภาษาไทย (เอาตามที่เข้าใจนะครับ... ไม่อยากบอกว่าแปลเพราะคงแปลไม่ตรงเท่าไหร)
 

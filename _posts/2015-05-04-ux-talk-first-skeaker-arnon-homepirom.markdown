@@ -1,15 +1,13 @@
 ---
-layout: post
-title: คุณปอน speaker คนแรกของงาน UX Talk ตอน Enterprise
-date: 2015-05-04 22:41:15.000000000 +07:00
-type: post
-published: true
-status: publish
-categories: event
-author: Apirak Panatkool
-banner: categoey_event.jpg
-tags:
-- uxtalk
+layout:           post
+title:            "คุณปอน speaker คนแรกของงาน UX Talk ตอน Enterprise"
+date:             2015-5-4T13:04:19+05:45
+last_modified_at: 2015-5-4T05:20:00+05:45
+categories:       event
+author:           Apirak
+banner:           categoey_event.jpg
+image:            /assets/health-plan-new.jpg
+tags:             ["uxtalk", "pond"]
 ---
 
 ความหินของงาน UX ในบริษัท Enterprise ถ้าใครที่ไม่ได้เข้ามาชนเองก็ยากมากที่จะเข้าใจ ผมเคยคิดว่าอะไรที่สมเหตุสมผลก็น่าจะสามารถจัดการได้อย่างไม่มีปัญหา แต่ในโลกของ Enterprise มันมีพลังที่อยู่เหนือเหตุผล

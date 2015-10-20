@@ -1,10 +1,13 @@
 ---
-layout: post
-title:  UX Design ที่ใครๆก็ทำได้ ตอน **มโน Persona**
-date:   2015-09-02 17:02:40
-categories: case-study tip
-author: Thapanee
-banner: dream_persona.jpg
+layout:           post
+title:            "UX Design ที่ใครๆก็ทำได้ ตอน **มโน Persona**"
+date:             2015-9-2T13:04:19+05:45
+last_modified_at: 2015-9-2T05:20:00+05:45
+categories:       tools
+author:           Natt
+banner:           dream_persona.jpg
+image:            /images/mixpanel_segmentation.png
+tags:             ["customer journey", "persona"]
 ---
 
 เมื่อวานทีมผมได้รับ Request จาก Product Owner (PO) ให้ช่วยสร้างๆ **Persona** ให้กับ Use Cases ต่างๆของ App ขึ้นมา
@@ -19,7 +22,7 @@ Persona คือการสร้างตัวแทนของกลุ่
 จากนั้นจึงเริ่มลง detail โดยการเปลี่ยนข้อมูลของกลุ่มคนให้กลายเป็น ข้อมูลของคนๆเดียวที่เจาะจง
 
 ในกรนีนี้เราได้เป็น **ดญ แป้ง**, อายุ 16, อยู่ขอนแก่ง, มีมือถือเป็นเครืองที่สอง, ชอบ selfie,
-etc. พอใด้ภาพของน้องแป้งขึ้นมาจึงนำไปว่างเป็น [Customer Journey](http://ux-lady.com/abc)
+etc. พอใด้ภาพของน้องแป้งขึ้นมาจึงนำไปว่างเป็น [Customer Journey](http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/)
 ของน้อง ว่าน้องแป้งจะต้องประสบการกับอะไรกว่าที่จะมาใช้ App นี้
 
 ทำไปซักพักทีมก็เริ่มเห็นจุดที่เป็นข้อสงสัยและต้องการ validate จึงไปในคนในทีมไปหาคนที่เด็กที่สุดใน

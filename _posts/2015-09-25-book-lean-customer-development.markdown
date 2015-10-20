@@ -1,10 +1,13 @@
 ---
-layout: post
-title:  หนังสือ **Lean Customer Development**
-date:   2015-09-25 17:02:40
-categories: tools
-author: Apirak
-banner: market.jpg
+layout:           post
+title:            "หนังสือ **Lean Customer Development**"
+date:             2015-9-25T13:04:19+05:45
+last_modified_at: 2015-9-25T05:20:00+05:45
+categories:       tools
+author:           Apirak
+banner:           market.jpg
+image:            /images/blog/lean_customer_development_cover.jpg
+tags:             ["book", "agile", "lean"]
 ---
 
 ปีนี้ได้อ่านหนังสือดีๆ หลายเล่มเลยครับ หนึ่งในนั้นคือหนังสือเรื่อง Lean Customer Development ของ Cindy Alvarez

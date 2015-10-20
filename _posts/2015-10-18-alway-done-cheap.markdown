@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  อย่าทำของแพง
-date:   2015-10-18 21:26:40
-categories: study prototype
-author: Apirak
-banner: blog/slotmachine.jpg
-image: /images/blog/easy_wireframe.jpg
+layout:           post
+title:            "อย่าทำของแพง"
+date:             2015-10-18T13:04:19+05:45
+last_modified_at: 2015-10-18T05:20:00+05:45
+categories:       study prototype
+author:           Apirak
+banner:           blog/slotmachine.jpg
+image:            /images/blog/easy_wireframe.jpg
+tags:             ["cheap", "practise"]
 ---
 
 คนเราชอบซื้อหวย ยิ่งเรารีบร้อนอยากจะรวยก็จะยิ่งซื้อบ่อย การพัฒนา Software เราก็รีบร้อนเหมือนกัน เราจึงพยายามทำงานแค่รอบเดียวให้เรียบร้อยสุด เพราะคิดว่านั่นเป็นหนทางที่สั้นที่สุดที่จะทำให้โครงการเสร็จ

@@ -1,15 +1,13 @@
 ---
-layout: post
-title: Wireframe ที่ดี ต้องมีองค์ประกอบ 4 ข้อนี้
-date: 2015-04-28 00:27:00.000000000 +07:00
-type: post
-published: true
-status: publish
-categories: study wireframe
-author: Apirak
-banner: categoey_event.jpg
-tags:
-- wireframe
+layout:           post
+title:            "Wireframe ที่ดี ต้องมีองค์ประกอบ 4 ข้อนี้"
+date:             2015-5-28T13:04:19+05:45
+last_modified_at: 2015-5-28T05:20:00+05:45
+categories:       study wireframe
+author:           Apirak
+banner:           categoey_event.jpg
+image:            /assets/3-_thumb-.png
+tags:             ["wireframe"]
 ---
 
 วันนี้ได้ย้อนกลับมาอ่านบทความเรื่อง [Why the Best Wireframe Style Is No Style](http://uxmovement.com/wireframes/why-the-best-wireframe-style-is-no-style/) ของเว็บ [uxmovement.com](http://www.uxmovement.com) ทำให้นึกถึงประสบการณ์ที่วาด Wireframe มาจนถึงวันนี้ ต้องเจอปัญหามากมายครับ ตั้งแต่วาดสวยไปจนทำให้ออกแบบยาก ใช้เวลาในแต่ละหน้านานจนวาดได้แค่แบบเดียว วาดแล้วไม่เก็บไว้พออยากได้ก็ถูกแก้ไปหมดแล้ว และยังมีปัญหาอื่นๆ อีกมากครับ เลยอยากสรุปไว้เตือนใจตัวเอง
