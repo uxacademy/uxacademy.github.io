@@ -33,5 +33,5 @@ author:
 fb_admins:      644389187
 fb_appid:       1195873630426381
 
-gems:
-  - jekyll-auto-image
+exclude:
+  - node_modules

@@ -5,8 +5,8 @@ date:             2015-4-1T13:04:19+05:45
 last_modified_at: 2015-4-1T05:20:00+05:45
 categories:       study
 author:           Apirak
-banner:           categoey_event.jpg
-image:            /assets/1429233244_thumb.png
+banner:           "categoey_event.jpg"
+image:            "/assets/1429233244_thumb.png"
 tags:             ["question", "ux"]
 ---
 

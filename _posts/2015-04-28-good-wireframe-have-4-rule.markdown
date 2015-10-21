@@ -6,7 +6,7 @@ last_modified_at: 2015-5-28T05:20:00+05:45
 categories:       study wireframe
 author:           Apirak
 banner:           categoey_event.jpg
-image:            /assets/3-_thumb-.png
+image:            "/assets/3-_thumb-.png"
 tags:             ["wireframe"]
 ---
 
