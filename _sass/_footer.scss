@@ -15,9 +15,9 @@ footer {
   padding-bottom: $spacing-unit;
 
   .contact-list, .social-media-list {
-      list-style: none;
-      margin-left: 0;
-      padding-left: 0;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
   }
 
   .contact {
@@ -30,6 +30,7 @@ footer {
     @extend .col-lg-4;
     @extend .col-md-3;
     @extend .col-sm-3;
+    padding-left: 15px;
   }
 
   .description {
