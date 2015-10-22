@@ -1,6 +1,6 @@
 ---
 layout:           post
-title:            "ตำแหน่งไหนที่ทำ UX แล้วงานลดลง"
+title:            "ตำแหน่งไหนบ้างที่ใช้ UX แล้วงานลดลง"
 date:             2015-10-21T05:00:00+05:45
 last_modified_at: 2015-10-21T13:00:00+05:45
 categories:       study
