@@ -1,6 +1,6 @@
 .post {
   .banner {
-    height: 400px;
+    height: 100px;
     background-position-y: 50%;
     @include media-query($on-palm) {
       height: 200px;
