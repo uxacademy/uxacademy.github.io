@@ -34,9 +34,9 @@ layout: default
       <div id="disqus_thread"></div>
         <script>
             var disqus_config = function () {
-                this.page.url = {{ site.url }}{{ page.url }};
-                this.page.identifier = {{ page.url }};
-                this.page.title = {{ page.title | markdownify }};
+                this.page.url = "{{ site.url }}{{ page.url }}";
+                this.page.identifier = "{{ page.url }}";
+                this.page.title = "{{ page.title | markdownify }}";
             };
             (function() {  // DON'T EDIT BELOW THIS LINE
                 var d = document, s = d.createElement('script');
