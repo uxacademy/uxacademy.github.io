@@ -5,7 +5,7 @@ date:             2015-4-17T13:04:19+05:45
 last_modified_at: 2015-4-17T05:20:00+05:45
 categories:       study
 author:           Apirak
-banner:           categoey_event.jpg
+banner:           study
 image:            /assets/1429233244_thumb.png
 tags:             ["assesment", "measurement", "skill"]
 ---

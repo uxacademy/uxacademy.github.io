@@ -5,7 +5,7 @@ date:             2015-8-3T13:04:19+05:45
 last_modified_at: 2015-8-3T05:20:00+05:45
 categories:       case-study UI
 author:           Apirak
-banner:           axion_ui.jpg
+banner:           case-study
 image:            /assets/Screen+Shot+2555-08-04+at+7.51.59+PM.png
 tags:             ["metro", "outlook"]
 blogger_self: https://www.blogger.com/feeds/164893737343921889/posts/default/9151613364048242708

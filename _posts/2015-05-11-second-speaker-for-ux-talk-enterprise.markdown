@@ -5,7 +5,7 @@ date:             2015-5-11T13:04:19+05:45
 last_modified_at: 2015-5-11T05:20:00+05:45
 categories:       event
 author:           Apirak
-banner:           categoey_event.jpg
+banner:           event
 image:            /assets/oat_small.jpg
 tags:             ["uxtalk", "oat"]
 ---

@@ -5,7 +5,7 @@ date:             2015-10-21T05:00:00+05:45
 last_modified_at: 2015-10-21T13:00:00+05:45
 categories:       study
 author:           Apirak
-banner:           blog/sushi.jpg
+banner:           study
 image:            /images/blog/food_order_paper.jpg
 tags:             ["management", "development", "ux"]
 ---

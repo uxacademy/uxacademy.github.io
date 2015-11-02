@@ -5,7 +5,7 @@ date:             2015-5-28T13:04:19+05:45
 last_modified_at: 2015-5-28T05:20:00+05:45
 categories:       study wireframe
 author:           Apirak
-banner:           categoey_event.jpg
+banner:           wireframe
 image:            "/assets/3-_thumb-.png"
 tags:             ["wireframe"]
 ---

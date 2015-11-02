@@ -5,7 +5,7 @@ date:             2015-9-25T13:04:19+05:45
 last_modified_at: 2015-9-25T05:20:00+05:45
 categories:       tools
 author:           Apirak
-banner:           market.jpg
+banner:           tools
 image:            /images/blog/lean_customer_development_cover.jpg
 tags:             ["book", "agile", "lean"]
 ---

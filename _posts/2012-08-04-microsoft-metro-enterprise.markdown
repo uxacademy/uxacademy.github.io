@@ -5,7 +5,7 @@ date:             2015-8-4T13:04:19+05:45
 last_modified_at: 2015-8-4T05:20:00+05:45
 categories:       study
 author:           Apirak
-banner:           axion_ui.jpg
+banner:           study
 image:            /assets/dynamics-dashboard.png
 tags:             ["question", "ux"]
 blogger_self: https://www.blogger.com/feeds/164893737343921889/posts/default/9151613364048242708

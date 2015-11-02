@@ -5,7 +5,7 @@ date:             2015-5-4T13:04:19+05:45
 last_modified_at: 2015-5-4T05:20:00+05:45
 categories:       event
 author:           Apirak
-banner:           categoey_event.jpg
+banner:           event
 image:            /assets/health-plan-new.jpg
 tags:             ["uxtalk", "pond"]
 ---
