@@ -17,7 +17,7 @@ facebook_page: uxacademy.th
 # Build settings
 markdown: kramdown
 excerpt_separator: <!--more-->
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page:num/"
 google_analytics_id: "UA-59158027-1"
 
