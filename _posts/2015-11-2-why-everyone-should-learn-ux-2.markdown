@@ -6,7 +6,7 @@ last_modified_at: 2015-11-2T13:00:00+05:45
 categories:       study
 author:           Apirak
 banner:           study
-image:            /images/blog/food_order_paper.jpg
+image:            /images/blog/uxineveryone.jpg
 tags:             ["management", "development", "ux"]
 ---
 
