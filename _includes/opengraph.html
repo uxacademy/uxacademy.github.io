@@ -1,33 +1,33 @@
 <!-- Open Graph (For Google and Facebook) -->
 
 {% if page.title %}
-  <meta content="{{ page.title }}" property="og:title">
+  <meta property="og:title" content="{{ page.title }}">
 {% else %}
-  <meta content="{{ site.name }}" property="og:title">
+  <meta property="og:title" content="{{ site.name }}">
 {% endif %}
 
 {% if page.date %}
-  <meta content="article" property="og:type">
+  <meta property="og:type" content="article">
 {% else %}
-  <meta content="website" property="og:type">
+  <meta property="og:type" content="website">
 {% endif %}
 
-<meta content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" property="og:url">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 {% if page.image %}
-  <meta content="{{ page.image | prepend: site.baseurl | prepend: site.url }}" property="og:image">
+  <meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}" >
 {% else %}
-  <meta content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" property="og:image">
+  <meta property="og:image" content="{{ site.image | prepend: site.baseurl | prepend: site.url }}" >
 {% endif %}
 
 {% if page.excerpt %}
-  <meta content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}" property="og:description">
+  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
 {% else %}
-  <meta content="{{ site.description }}" property="og:description">
+  <meta property="og:description" content="{{ site.description }}" >
 {% endif %}
 
-<meta content="{{ site.name }}" property="og:site_name" >
-<meta content="th" property="og:locale" />
+<meta property="og:site_name" content="{{ site.name }}" >
+<meta property="og:locale" content="th" />
 
 
 {% if page.date %}
