@@ -10,7 +10,8 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           study
-image:            /assets/dynamics-dashboard.png
+image:
+  file:         /assets/dynamics-dashboard.png
 tags:             ["question", "ux"]
 blogger_self: https://www.blogger.com/feeds/164893737343921889/posts/default/9151613364048242708
 ---

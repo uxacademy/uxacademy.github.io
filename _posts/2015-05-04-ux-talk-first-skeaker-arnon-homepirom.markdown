@@ -10,7 +10,10 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           event
-image:            /assets/health-plan-new.jpg
+image:
+  file:         /assets/health-plan-new.jpg
+  width:        500
+  height:       338
 tags:             ["uxtalk", "pond"]
 ---
 

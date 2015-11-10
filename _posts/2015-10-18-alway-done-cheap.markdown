@@ -10,7 +10,10 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           study
-image:            /images/blog/easy_wireframe.jpg
+image:
+  file:         /images/blog/easy_wireframe.jpg
+  width:        450
+  height:       600
 tags:             ["cheap", "practise"]
 ---
 

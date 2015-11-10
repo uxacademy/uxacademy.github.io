@@ -10,7 +10,10 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           study
-image:            /images/blog/uxineveryone.jpg
+image:
+  file:         /images/blog/uxineveryone.jpg
+  width:        600
+  height:       406
 tags:             ["management", "development", "ux"]
 ---
 

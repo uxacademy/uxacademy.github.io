@@ -10,7 +10,8 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           case-study
-image:            /assets/Screen+Shot+2555-08-04+at+7.51.59+PM.png
+image:
+  file:         /assets/Screen+Shot+2555-08-04+at+7.51.59+PM.png
 tags:             ["metro", "outlook"]
 blogger_self: https://www.blogger.com/feeds/164893737343921889/posts/default/9151613364048242708
 ---

@@ -10,7 +10,9 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           wireframe
-image:            "/assets/3-_thumb-.png"
+image:
+  file:         "/assets/3-_thumb-.png"
+
 tags:             ["wireframe"]
 ---
 

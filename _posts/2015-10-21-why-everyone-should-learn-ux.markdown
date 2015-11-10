@@ -10,7 +10,10 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           study
-image:            /images/blog/food_order_paper.jpg
+image:
+  file:         /images/blog/food_order_paper.jpg
+  width:        600
+  height:       450
 tags:             ["management", "development", "ux"]
 ---
 

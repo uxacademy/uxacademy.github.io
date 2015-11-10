@@ -10,7 +10,10 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           tools
-image:            /images/blog/lean_customer_development_cover.jpg
+image:
+  file:         /images/blog/lean_customer_development_cover.jpg
+  width:        300
+  height:       452
 tags:             ["book", "agile", "lean"]
 ---
 

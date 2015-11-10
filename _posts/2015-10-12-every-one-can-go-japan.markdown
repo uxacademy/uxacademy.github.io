@@ -8,7 +8,10 @@ author:
   name:         Vilawan
   facebook:     jujuit
 banner:           study
-image:            /images/blog/easy_wireframe.jpg
+image:
+  file:         /images/blog/jui_japan_omoto.png
+  width:        583
+  height:       600
 tags:             ["japan", "travel", "culture"]
 ---
 

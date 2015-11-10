@@ -10,7 +10,10 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           event
-image:            /assets/oat_small.jpg
+image:
+  file:         /assets/oat_small.jpg
+  width:        600
+  height:       337
 tags:             ["uxtalk", "oat"]
 ---
 

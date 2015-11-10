@@ -10,7 +10,10 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           prototype
-image:            /images/blog/agile_UX.jpg
+image:
+  file:         /images/blog/agile_UX.jpg
+  width:        260
+  height:       321
 tags:             ["book", "agile"]
 ---
 

@@ -10,7 +10,8 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           presentation
-image:            /assets/1426296304_thumb.png
+image:
+  file:         /assets/1426296304_thumb.png
 tags:             ["presentation", "ux"]
 ---
 

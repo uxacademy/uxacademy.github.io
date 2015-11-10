@@ -9,7 +9,10 @@ author:
   name:         Natt
   facebook:     nattphenjati
 banner:           tools
-image:            /images/mixpanel_segmentation.png
+image:
+  file:         /images/mixpanel_segmentation.png
+  width:        600
+  height:       377
 tags:             ["customer journey", "persona"]
 ---
 

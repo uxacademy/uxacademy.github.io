@@ -10,7 +10,8 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           study
-image:            /assets/1429233244_thumb.png
+image:
+  file:         /assets/1429233244_thumb.png
 tags:             ["assesment", "measurement", "skill"]
 ---
 

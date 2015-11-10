@@ -10,7 +10,10 @@ author:
   twitter:      apirak
   google_plus:  apirakpanatkool
 banner:           tools
-image:            /images/mixpanel_segmentation.png
+image:
+  file:         /images/mixpanel_segmentation.png
+  width:        600
+  height:       377
 tags:             ["analytic", "mixpanel", "lean"]
 ---
 
