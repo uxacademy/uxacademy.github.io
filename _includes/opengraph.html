@@ -12,7 +12,7 @@
   <meta property="og:type" content="website">
 {% endif %}
 
-<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 {% if page.image.file %}
   <meta property="og:image" content="{{ page.image.file | prepend: site.baseurl | prepend: site.url }}" >
@@ -28,8 +28,8 @@
   <meta property="og:description" content="{{ site.description }}" >
 {% endif %}
 
-<meta property="og:site_name" content="{{ site.name }}" >
-<meta property="og:locale" content="th_TH" />
+  <meta property="og:site_name" content="{{ site.name }}" >
+  <meta property="og:locale" content="th_TH" />
 
 {% if page.date %}
   <meta property="article:modified_time" content="{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">
@@ -52,9 +52,8 @@
   <meta property="article:tag" content="{{ tag }}">
   {% endfor %}
 {% endif %}
-
-<meta property="fb:admins" content="{{ site.fb_admins }}">
-<meta property="fb:app_id" content="{{ site.fb_appid }}">
+  <meta property="fb:admins" content="{{ site.fb_admins }}">
+  <meta property="fb:app_id" content="{{ site.fb_appid }}">
 
 
 <!-- Twitter -->
