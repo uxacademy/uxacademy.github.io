@@ -4,7 +4,11 @@ title:            "Outlook New look พื้นที่ทำงาน"
 date:             2015-8-3T13:04:19+05:45
 last_modified_at: 2015-8-3T05:20:00+05:45
 categories:       case-study UI
-author:           Apirak
+author:
+  name:         Apirak
+  facebook:     apirak
+  twitter:      apirak
+  google_plus:  apirakpanatkool
 banner:           case-study
 image:            /assets/Screen+Shot+2555-08-04+at+7.51.59+PM.png
 tags:             ["metro", "outlook"]

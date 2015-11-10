@@ -4,7 +4,11 @@ title:            "Microsoft แสดงหน้าจอ Metro สำหร�
 date:             2015-8-4T13:04:19+05:45
 last_modified_at: 2015-8-4T05:20:00+05:45
 categories:       study
-author:           Apirak
+author:
+  name:         Apirak
+  facebook:     apirak
+  twitter:      apirak
+  google_plus:  apirakpanatkool
 banner:           study
 image:            /assets/dynamics-dashboard.png
 tags:             ["question", "ux"]

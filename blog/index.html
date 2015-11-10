@@ -21,7 +21,7 @@ title: Blog
         <p class="article-date">
           {{ post.date | date: "%B %e, %Y" }}
           by
-          {{ post.author}}
+          <a href="https://www.facebook.com/{{ post.author.facebook }}">{{ post.author.name }}</a>
         </p>
         <a href="{{ post.url }}">
           <h3 class="article-title">

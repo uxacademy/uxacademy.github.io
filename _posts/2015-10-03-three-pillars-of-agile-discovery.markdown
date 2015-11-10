@@ -4,7 +4,11 @@ title:            "สามสิ่งที่ควรมองหาตอ�
 date:             2015-10-3T13:04:19+05:45
 last_modified_at: 2015-10-3T05:20:00+05:45
 categories:       study prototype
-author:           Apirak
+author:
+  name:         Apirak
+  facebook:     apirak
+  twitter:      apirak
+  google_plus:  apirakpanatkool
 banner:           prototype
 image:            /images/blog/agile_UX.jpg
 tags:             ["book", "agile"]

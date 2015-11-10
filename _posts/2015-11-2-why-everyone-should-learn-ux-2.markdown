@@ -4,7 +4,11 @@ title:            "ตำแหน่งไหนบ้างที่ใช้ 
 date:             2015-11-2T05:00:00+05:45
 last_modified_at: 2015-11-2T13:00:00+05:45
 categories:       study
-author:           Apirak
+author:
+  name:         Apirak
+  facebook:     apirak
+  twitter:      apirak
+  google_plus:  apirakpanatkool
 banner:           study
 image:            /images/blog/uxineveryone.jpg
 tags:             ["management", "development", "ux"]

@@ -4,7 +4,9 @@ title:            "ใครๆก็บินไปญี่ปุ่น"
 date:             2015-10-12T13:04:19+05:45
 last_modified_at: 2015-10-12T05:20:00+05:45
 categories:       study prototype
-author:           Vilawan
+author:
+  name:         Vilawan
+  facebook:     jujuit
 banner:           study
 image:            /images/blog/easy_wireframe.jpg
 tags:             ["japan", "travel", "culture"]

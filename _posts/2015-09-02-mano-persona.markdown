@@ -5,6 +5,9 @@ date:             2015-9-2T13:04:19+05:45
 last_modified_at: 2015-9-2T05:20:00+05:45
 categories:       tools
 author:           Natt
+author:
+  name:         Natt
+  facebook:     nattphenjati
 banner:           tools
 image:            /images/mixpanel_segmentation.png
 tags:             ["customer journey", "persona"]

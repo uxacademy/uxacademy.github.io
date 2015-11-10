@@ -4,7 +4,11 @@ title:            "Presentation ดีๆ ไม่จำเป็นว่า�
 date:             2015-3-15T13:04:19+05:45
 last_modified_at: 2015-3-15T05:20:00+05:45
 categories:       presentation
-author:           Apirak
+author:
+  name:         Apirak
+  facebook:     apirak
+  twitter:      apirak
+  google_plus:  apirakpanatkool
 banner:           presentation
 image:            /assets/1426296304_thumb.png
 tags:             ["presentation", "ux"]
