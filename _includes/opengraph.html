@@ -14,7 +14,7 @@
 
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-{% if page.image %}
+{% if page.image.file %}
   <meta property="og:image" content="{{ page.image.file | prepend: site.baseurl | prepend: site.url }}" >
   <meta property="og:image:width" content="{{ page.image.width }}" >
   <meta property="og:image:height" content="{{ page.image.height }}" >
