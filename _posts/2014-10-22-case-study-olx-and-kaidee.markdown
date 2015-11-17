@@ -11,10 +11,10 @@ author:
   google_plus:    apirakpanatkool
 banner:           case-study
 image:
-  file:           /images/blog/uxineveryone.jpg
-  width:          600
-  height:         406
-tags:             ["management", "development", "ux"]
+  file:           /assets/kaidee_olx.jpg
+  width:          1106
+  height:         1154
+tags:             ["kaidee", "olx", "ux"]
 ---
 
 

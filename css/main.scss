@@ -12,18 +12,27 @@ $fa-font-path: "../bower_components/font-awesome/fonts" !default;
 @import "../bower_components/font-awesome/scss/font-awesome";
 
 // Our variables
-$base-font-family: 'Source Sans Pro', sans-serif;
-$base-font-size:   15px;
-$small-font-size:  $base-font-size * 0.8;
-$big-font-size:   $base-font-size * 1.5;
-$large-font-size:  $base-font-size * 2;
+$base-font-family: 'THSarabunNew', sans-serif;
+$base-font-size:   150%;
+
+$small-font-size:  1em;
+$big-font-size:    1.3em;
+$large-font-size:  2.8em;
+
+$big-font-size-mobile: 1em;
+$large-font-size-mobile: 1.8em;
+
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
 $text-color:       #111;
 $text-bold-color:  #4791E5; //blue
-$text-background-color: #3592E2;
+$text-highlight-color: #2D4D78;
+$text-highlight-background-color: #AED1FF;
+$text-highlight-color-on-dark: #FFFFFF;
+$text-highlight-background-color-on-dark: #5595DE;
+
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
@@ -58,6 +67,7 @@ $nav-height:       50px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "mixin",
+  "font",
   "base",
   "layout",
   "home",
