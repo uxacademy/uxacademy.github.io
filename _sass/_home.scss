@@ -29,8 +29,7 @@
       }
       .hightlight {
         b {
-          color: $text-highlight-color-on-dark;
-          background-color: $text-highlight-background-color-on-dark;
+          font-weight: bold;
         }
         background-color: $text-highlight-background-color-on-dark;
         padding: 3px 5px;

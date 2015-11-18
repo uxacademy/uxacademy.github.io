@@ -1,9 +1,9 @@
 .post {
   .banner {
-    height: 100px;
+    height: 115px;
     background-position-y: 50%;
-    @include media-query($on-palm) {
-      height: 200px;
+    @include media-query($on-laptop) {
+      background-size: 150% auto;
     }
   }
 
@@ -22,7 +22,7 @@
     @include media-query($on-palm) {
       .content {
         h1 {
-          font-size: $large-font-size;
+          font-size: $large-font-size-mobile;
           font-weight: bold;
         }
       }
