@@ -43,8 +43,11 @@
       }
     }
   }
-  @include media-query($on-palm) {
+  @include media-query($on-laptop) {
     background-size: 150% auto;
+  }
+  @include media-query($on-palm) {
+    background-size: 180% auto;
     .banner-content{
       padding: 100px 0px 80px 0px;
       .banner-text{
@@ -252,16 +255,13 @@
     @include link-on-dark;
 
     color: $text-color-soft;
+    line-height: 1.6;
     width: 720px;
     height: 325px;
     margin: 0 auto;
     text-align: center;
     background-color: #203044;
     padding: $spacing-unit/2 $spacing-unit*3;
-    b {
-      color: #fff;
-      padding: 9px 5px;
-    }
     .profile {
       margin: $spacing-unit auto 0;
     }

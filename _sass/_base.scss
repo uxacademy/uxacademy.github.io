@@ -9,22 +9,23 @@ body {
 }
 
 b {
-  color: $text-highlight-color;
-  background-color: $text-highlight-background-color;
+  font-weight: normal;
   padding: 3px 5px 0px 5px;
 }
 
 p {
   b, strong {
     @extend b;
+    color: $text-highlight-color;
+    background-color: $text-highlight-background-color;
   }
 }
 
 p.dark {
   b, strong {
+    @extend b;
     color: $text-highlight-color-on-dark;
     background-color: $text-highlight-background-color-on-dark;
-    padding: 3px 5px 0px 5px;
   }
 }
 
