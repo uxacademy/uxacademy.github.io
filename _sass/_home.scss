@@ -255,13 +255,15 @@
     @include link-on-dark;
 
     color: $text-color-soft;
-    line-height: 1.6;
     width: 720px;
     height: 325px;
     margin: 0 auto;
     text-align: center;
     background-color: #203044;
     padding: $spacing-unit/2 $spacing-unit*3;
+    p {
+      line-height: 1.6;
+    }
     .profile {
       margin: $spacing-unit auto 0;
     }
