@@ -4,9 +4,11 @@ title:          "UX Academy"
 name:           "UX Academy"
 email:          apirakb@gmail.com
 description: >
-  UX Academy is a company focusing on User Experience, User Research,
-  User Interview, Usability Testing, Data Analytic, Cretique UI.
-  Our service is Training, Coaching and UX Consultant.
+  UX Academy is evangelist company.
+  We focusing on User Experience design and use understanding
+  by the variety of method ex. User Research,
+  User Interview, Usability Testing, Data Analytic.
+  Our service is Training, Coaching and Consultant.
 baseurl:        "" # the subpath of your site, e.g. /blog/
 url:            "http://uxacademy.in.th"
 # twitter_username: apirak
