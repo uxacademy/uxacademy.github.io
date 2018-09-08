@@ -173,7 +173,7 @@
     font-weight: bold;
   }
   @include media-query($on-palm) {
-    .price {
+    .price, .school {
       display:none;
     }
   }
