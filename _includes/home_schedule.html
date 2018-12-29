@@ -11,7 +11,41 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
+      {% for event in site.data.schedule reversed limit:8 %}
+        <tr>
+          <td>{{ event.title }}</td>
+          <td class="school">
+          {% case event.school %}
+            {% when "uxacademy" %}
+              <img src="/images/logo_uxacademy.png" width="100"/>
+            {% when "skooldio" %}
+              <img src="/images/logo_skooldio.png" width="100"/>
+            {% when "craftfig" %}  
+              <img src="/images/logo_craftfig.png" width="100"/>
+          {% endcase %}
+          </td>
+          <td>{{ event.date }}</td>
+          <td class="price">
+            {{ event.price }}
+          </td>
+          <td>
+            {% if event.expire %}
+              <a class="btn btn-info"
+                  href="{{ event.gallery }}">
+                <i class="fa fa-file-image-o"></i>
+                UI Gallery
+              </a><br/>
+            {% else %}
+              <a class="btn btn-success"
+                  href="{{ event.booking }}">
+                <i class="fa fa-calendar"></i>
+                More detail
+              </a><br/>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+      <!-- <tr>
         <td>UI Workshop</td>
         <td class="school"><img src="/images/logo_uxacademy.png" width="100"/></td>
         <td>28-29 June, 2018</td>
@@ -130,7 +164,7 @@
             More detail
           </a><br/>
         </td>
-      </tr>                       
+      </tr>                        -->
     </tbody>
   </table>
 </div>

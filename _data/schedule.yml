@@ -1,0 +1,64 @@
+- title: UI DESIGN ESSENTIALS
+  school: skooldio
+  date: 19 Jan, 2019
+  price: "7,900"
+  booking: https://www.skooldio.com/courses/ui-design-essentials-4
+  gallery: http://bit.ly/skooldio-ui-gallery
+  expire: false 
+- title: UX Workshop
+  school: uxacademy
+  date: 24-25 Jan, 2019
+  price: "10,600"
+  booking: https://www.eventpop.me/e/4759
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: false 
+- title: UX Workshop
+  school: uxacademy
+  date: 20-21 Dec, 2018
+  price: "9,900"
+  booking: https://www.eventpop.me/e/4385
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: true
+- title: Intensive UI
+  school: skooldio
+  date: 1-2 Nov, 2018
+  price: "13,900"
+  booking: https://www.skooldio.com/courses/intensive-ui
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: true
+  show: true
+- title: UX Workshop
+  school: uxacademy
+  date: 18-19 Oct, 2018
+  price: "9,900"
+  booking: https://www.eventpop.me/e/4097
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: true   
+- title: UX Workshop
+  school: uxacademy
+  date: 20-21 Sep, 2018
+  price: "9,900"
+  booking: https://www.eventpop.me/e/3929
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: true
+- title: Fundamental UI
+  school: craftfig
+  date: 22 Sep, 2018
+  price: "4,500"
+  booking: https://craftfig.co/courses/fundamental-ui2
+  gallery: http://bit.ly/ui-workshop
+  expire: true
+- title: UI Design Essentials Workshop
+  school: skooldio
+  date: 15 Sep, 2018
+  price: "7,900"
+  booking: https://www.skooldio.com/courses/ui-design-essentials-3
+  gallery: http://bit.ly/skooldio-ui-gallery
+  expire: true
+- title: UI Workshop
+  school: uxacademy
+  date: 8-29 June, 2018
+  price: "9,900"
+  booking: http://bit.ly/ui-workshop
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: true
