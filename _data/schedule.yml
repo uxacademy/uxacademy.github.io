@@ -1,24 +1,31 @@
 - title: UX Workshop
   school: uxacademy
+  date: 28-29 Mar, 2019
+  price: "10,600"
+  booking: https://www.eventpop.me/e/5027
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: false 
+- title: UX Workshop
+  school: uxacademy
   date: 24-25 Jan, 2019
   price: "10,600"
   booking: https://www.eventpop.me/e/4759
   gallery: http://bit.ly/uxa_fb_gallery
-  expire: false 
+  expire: true 
 - title: UI DESIGN ESSENTIALS
   school: skooldio
   date: 19 Jan, 2019
   price: "7,900"
   booking: https://www.skooldio.com/courses/ui-design-essentials-4
   gallery: http://bit.ly/skooldio-ui-gallery
-  expire: false 
+  expire: true 
 - title: UI Fundamental
   school: craftfig
   date: 10 Jan, 2019
   price: "4,500"
   booking: https://web.facebook.com/CraftFig/posts/983867051800224
   gallery: http://bit.ly/ui-workshop
-  expire: false 
+  expire: true 
 - title: UX Workshop
   school: uxacademy
   date: 20-21 Dec, 2018
