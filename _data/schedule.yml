@@ -1,5 +1,19 @@
 - title: UX Workshop
   school: uxacademy
+  date: 23-24 May, 2019
+  price: "10,600"
+  booking: https://www.eventpop.me/e/5443
+  gallery: http://bit.ly/uxa_fb_gallery  
+  expire: false  
+- title: UI DESIGN ESSENTIALS
+  school: skooldio
+  date: 26 April, 2019
+  price: "7,900"
+  booking: https://v1.skooldio.com/courses/ui-design-essentials-5
+  gallery: http://bit.ly/skooldio-ui-gallery
+  expire: false
+- title: UX Workshop
+  school: uxacademy
   date: 28-29 Mar, 2019
   price: "10,600"
   booking: https://www.eventpop.me/e/5027
