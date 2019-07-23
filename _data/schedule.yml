@@ -5,6 +5,13 @@
   booking: https://www.eventpop.me/e/6335-intensive-ux-workshop
   gallery: http://bit.ly/uxa_fb_gallery
   expire: false
+- title: UI Workshop
+  school: uxacademy
+  date: 19-20 Sep, 2019
+  price: "14,900"
+  booking: https://www.eventpop.me/e/6365 -speed-ui-workshop
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: false
 - title: UX Workshop
   school: uxacademy
   date: 29-30 Aug, 2019
@@ -18,7 +25,7 @@
   price: "4,500"
   booking: https://web.facebook.com/342415659278703/posts/1092794404240821
   gallery: http://bit.ly/ui-workshop
-  expire: false
+  expire: true
 - title: UX Workshop
   school: uxacademy
   date: 4-5 July, 2019
