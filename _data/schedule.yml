@@ -19,6 +19,13 @@
   booking: https://www.eventpop.me/e/6127
   gallery: http://bit.ly/uxa_fb_gallery
   expire: false
+- title: UI DESIGN ESSENTIALS
+  school: skooldio
+  date: 17 Aug, 2019
+  price: "8,900"
+  booking: https://v1.skooldio.com/courses/ui-design-essentials-6
+  gallery: http://bit.ly/skooldio-ui-gallery
+  expire: true
 - title: UI Fundamental
   school: craftfig
   date: 20 July, 2019
