@@ -25,7 +25,7 @@
   price: "8,900"
   booking: https://v1.skooldio.com/courses/ui-design-essentials-6
   gallery: http://bit.ly/skooldio-ui-gallery
-  expire: true
+  expire: false
 - title: UI Fundamental
   school: craftfig
   date: 20 July, 2019
