@@ -1,3 +1,17 @@
+- title: UI DESIGN ESSENTIALS
+  school: skooldio
+  date: 4 Dec, 2019
+  price: "8,900"
+  booking: https://v1.skooldio.com/courses/ui-design-essentials-8
+  gallery: http://bit.ly/skooldio-ui-gallery
+  expire: false
+- title: UI Fundamental
+  school: craftfig
+  date: 20 July, 2019
+  price: "4,500"
+  booking: https://web.facebook.com/342415659278703/posts/1092794404240821
+  gallery: http://bit.ly/ui-workshop
+  expire: false
 - title: UX Workshop
   school: uxacademy
   date: 20-21 Nov, 2019
