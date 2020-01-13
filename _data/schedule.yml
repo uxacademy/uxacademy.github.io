@@ -1,5 +1,12 @@
 - title: UX Workshop
   school: uxacademy
+  date: 26-27 Mar, 2020
+  price: "14,900"
+  booking: https://www.eventpop.me/e/7940-intensive-ux-workshop-march-2020
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: false
+- title: UX Workshop
+  school: uxacademy
   date: 16-17 Jan, 2020
   price: "14,900"
   booking: https://www.eventpop.me/e/7484-intensive-ux-workshop-jan-2020
@@ -11,7 +18,7 @@
   price: "8,900"
   booking: https://v1.skooldio.com/courses/ui-design-essentials-8
   gallery: http://bit.ly/skooldio-ui-gallery
-  expire: false
+  expire: true
 - title: UI Fundamental
   school: craftfig
   date: 20 July, 2019
