@@ -12,13 +12,20 @@
   booking: https://v1.skooldio.com/courses/intensive-ui-2
   gallery: http://bit.ly/skooldio-ui-gallery
   expire: false
+- title: UI Fundamental
+  school: craftfig
+  date: 18 Jan, 2020
+  price: "4,500"
+  booking: https://web.facebook.com/342415659278703/posts/1092794404240821
+  gallery: http://bit.ly/ui-workshop
+  expire: true
 - title: UX Workshop
   school: uxacademy
   date: 16-17 Jan, 2020
   price: "14,900"
   booking: https://www.eventpop.me/e/7484-intensive-ux-workshop-jan-2020
   gallery: http://bit.ly/uxa_fb_gallery
-  expire: false
+  expire: true
 - title: UI DESIGN ESSENTIALS
   school: skooldio
   date: 4 Dec, 2019
