@@ -1,17 +1,31 @@
+- title: Intensive UI
+  school: skooldio
+  date: 23 May, 2020
+  price: "7,900"
+  booking: https://www.skooldio.com/workshops/ui-design-essentials
+  gallery: http://bit.ly/skooldio-ui-gallery
+  expire: false
+- title: Online UX Workshop
+  school: uxacademy
+  date: 30-31 May, 2020
+  price: "7,450 Early bird"
+  booking: https://www.eventpop.me/e/8768/ux-workshop
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: false
 - title: UX Workshop
   school: uxacademy
   date: 26-27 Mar, 2020
   price: "14,900"
   booking: https://www.eventpop.me/e/7940-intensive-ux-workshop-march-2020
   gallery: http://bit.ly/uxa_fb_gallery
-  expire: false
+  expire: true
 - title: Intensive UI
   school: skooldio
   date: 6-7 Feb, 2020
   price: "14,900"
   booking: https://v1.skooldio.com/courses/intensive-ui-2
   gallery: http://bit.ly/skooldio-ui-gallery
-  expire: false
+  expire: true
 - title: UI Fundamental
   school: craftfig
   date: 18 Jan, 2020
