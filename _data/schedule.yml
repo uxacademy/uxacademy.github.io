@@ -11,7 +11,7 @@
   price: "14,900.00"
   booking: https://www.skooldio.com/workshops/intensive-ui?skuCode=W36001-03
   gallery: http://bit.ly/skooldio-ui-gallery
-  expire: true  
+  expire: false  
 - title: UX Workshop
   school: uxacademy
   date: 25-26 Jun, 2020
