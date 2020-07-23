@@ -1,3 +1,10 @@
+- title: UX Workshop
+  school: uxacademy
+  date: 8-9 Sep, 2020
+  price: "14,900"
+  booking: https://www.eventpop.me/e/9298/intensive-ux-workshop-sep-2020
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: false
 - title: Online UI Workshop
   school: uxacademy
   date: 29-30 Aug, 2020
@@ -18,7 +25,7 @@
   price: "14,900"
   booking: https://www.eventpop.me/e/8934/intensive-ux-workshop-jun-2020
   gallery: http://bit.ly/uxa_fb_gallery
-  expire: false
+  expire: true
 - title: Intensive UI
   school: skooldio
   date: 23 May, 2020
