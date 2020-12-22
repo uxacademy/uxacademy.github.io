@@ -1,16 +1,24 @@
 - title: UX Workshop
   school: uxacademy
+  date: 21-22 Jan, 2021
+  price: "14,900"
+  booking: https://www.eventpop.me/e/10357/intensive-ux-workshop-jan-2021
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: false
+- title: UX Workshop
+  school: uxacademy
   date: 28-29 Oct, 2020
   price: "14,900"
   booking: https://www.eventpop.me/e/9703
   gallery: http://bit.ly/uxa_fb_gallery
-  expire: false
+  expire: true
 - title: Intensive UI
   school: skooldio
   date: 17-18 Oct, 2020
   price: "14,900"
   booking: https://www.skooldio.com/workshops/intensive-ui?skuCode=W36001-04
   gallery: http://bit.ly/skooldio-ui-gallery
+  expire: true  
 - title: UX Workshop
   school: uxacademy
   date: 8-9 Sep, 2020
