@@ -1,11 +1,13 @@
 ---
 ---
-[ {% for event in site.data.schedule reversed limit:8 %}
+[ 
+  {%- for event in site.data.schedule reversed limit:8 -%}
   {
     "title": "{{ event.title }}",
     "school": "{{event.school}}",
     "date": "{{ event.date }}",
     "price": "{{ event.price}}"
   },
-  {% endfor %} ]
-{{ site.data.schedule | jsonify }}
+  {%- endfor -%} 
+]
+{% comment %}{{ site.data.schedule | jsonify }}{% endcomment %}
