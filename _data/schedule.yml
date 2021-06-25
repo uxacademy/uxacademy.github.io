@@ -1,10 +1,17 @@
 - title: UX Workshop
   school: uxacademy
+  date: 29-30 July 2021
+  price: "14,900"
+  booking: https://www.eventpop.me/e/11047/intensive-ux-workshop-jul-2021
+  gallery: http://bit.ly/uxa_fb_gallery
+  expire: false
+- title: UX Workshop
+  school: uxacademy
   date: 27-28 May 2021
   price: "14,900"
   booking: https://www.eventpop.me/e/11047/intensive-ux-workshop-may-2021
   gallery: http://bit.ly/uxa_fb_gallery
-  expire: false
+  expire: true
 - title: UX Workshop
   school: uxacademy
   date: 22-23 Mar, 2021
